@@ -1,6 +1,6 @@
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
-Citizen.CreateThread( function(eventName)
+Citizen.CreateThread( function()
 	local resetCounter = 0
 	local jumpDisabled = false
   	
