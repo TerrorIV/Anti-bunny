@@ -15,6 +15,4 @@ ensure AntiBunny ou start AntiBunny dans votre server.cfg ou resources.cfg et d√
 ```
 # Aper√ßu
 
-<img border="0" src="https://i.imgur.com/cojWmYn.mp4"> <br>
-
- 
+![](https://i.imgur.com/cojWmYn.mp4)
